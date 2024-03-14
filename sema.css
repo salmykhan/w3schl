@@ -1,0 +1,14 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url("snow.jpg");
+    width: max-content;
+    height: max-content;
+}
+h1.one{
+    background-color: brown;
+    text-align: cente
+}
+pre#two{
+    text-align: center;
+    background-color: brown;
+}

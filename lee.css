@@ -1,0 +1,26 @@
+header{
+    padding: 60px;
+    text-align: center;
+    background: fixed;
+    color: aqua;
+    font-size: 30px;
+}
+footer{
+    padding: 20px;
+     background-color: aqua;
+     text-align: right;
+     color: blue;
+     width: 600px;
+     margin: auto;
+}
+table,th,td{
+ border: 5px solid black;
+ border-c0llapse:collapse;
+ margin: auto; 
+}
+div{
+    margin-left: 42%;
+}
+
+
+
